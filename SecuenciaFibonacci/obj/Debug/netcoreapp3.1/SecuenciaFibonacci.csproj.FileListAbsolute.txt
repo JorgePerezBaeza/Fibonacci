@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp3.1\SecuenciaFibonacci.exe
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp3.1\SecuenciaFibonacci.deps.json
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp3.1\SecuenciaFibonacci.runtimeconfig.json
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp3.1\SecuenciaFibonacci.runtimeconfig.dev.json
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp3.1\SecuenciaFibonacci.dll
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp3.1\SecuenciaFibonacci.pdb
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.AssemblyInfo.cs
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.dll
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.pdb
+C:\Users\jorge\source\repos\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp3.1\SecuenciaFibonacci.genruntimeconfig.cache
