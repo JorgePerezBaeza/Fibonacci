@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\source\\Proyectos\\Nueva carpeta\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj": {}
+    "C:\\Users\\jorge\\source\\Proyectos\\Fibonacci\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\source\\Proyectos\\Nueva carpeta\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj": {
+    "C:\\Users\\jorge\\source\\Proyectos\\Fibonacci\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\source\\Proyectos\\Nueva carpeta\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\source\\Proyectos\\Fibonacci\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj",
         "projectName": "SecuenciaFibonacci",
-        "projectPath": "C:\\Users\\jorge\\source\\Proyectos\\Nueva carpeta\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj",
+        "projectPath": "C:\\Users\\jorge\\source\\Proyectos\\Fibonacci\\SecuenciaFibonacci\\SecuenciaFibonacci.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\source\\Proyectos\\Nueva carpeta\\SecuenciaFibonacci\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\source\\Proyectos\\Fibonacci\\SecuenciaFibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
